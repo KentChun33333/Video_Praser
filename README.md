@@ -1,5 +1,5 @@
 # Video_Praser
-Video Praser provides the object-detection and object-trajectory recognition servise to the video.
+Video Praser hleps you to discover the insight from video files by providing the object-detection and object-trajectory recognition to the video. 
 
 # Dependency
 - opencv
