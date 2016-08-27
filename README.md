@@ -1,4 +1,4 @@
-# Video_Praser
+# Video Parser
 Video Praser hleps you to discover the insight from video files by providing the object-detection and object-trajectory recognition to the video. 
 
 # Dependency
