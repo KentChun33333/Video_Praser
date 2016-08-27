@@ -8,7 +8,6 @@ Video Praser hleps you to discover the insight from video files by providing the
 - theano or tensorflow 
 - imageio
 - Better have gpu support (Cudnn)
-- 
 
 # Project Architecture 
 - Storage_Hub
